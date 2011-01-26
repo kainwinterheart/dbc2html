@@ -1,4 +1,4 @@
-﻿/*
+/*
 Based on DBC Viewer by TOM_RUS
 https://github.com/tomrus88/dbcviewer
 
