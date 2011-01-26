@@ -1,5 +1,6 @@
 ﻿/*
-Based on DBC Viewer from TOM_RUS
+Based on DBC Viewer by TOM_RUS
+https://github.com/tomrus88/dbcviewer
 
 This version produced by Kain Winterheart
 http://www.facebook.com/kain.winterheart
